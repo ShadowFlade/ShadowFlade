@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadowFlade
 - 👀 I’m interested in web development and mobile development
-- 🌱 I’m currently learning TypeScript and Python
+- 🌱 I’m currently learning TypeScript and React
 - 💞️ I’m looking to collaborate on any frontend project.
 - 📫 How to reach me <drugov.business@yandex.ru>
 
