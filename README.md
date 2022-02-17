@@ -10,4 +10,6 @@ You can see my projects at :
   
   https://shadowflade.github.io/hotel/ (https://github.com/ShadowFlade/hotel)
   
+My current React project: https://github.com/ShadowFlade/gymApp-frontend
+  
   
