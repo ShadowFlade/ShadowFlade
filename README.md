@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadowFlade
-- 👀 I’m interested in web development and mobile development
-- 🌱 I’m currently learning TypeScript and React
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any frontend project.
 - 📫 How to reach me <drugov.business@yandex.ru>
 
@@ -10,6 +10,5 @@ You can see my projects at :
   
   https://shadowflade.github.io/hotel/ (https://github.com/ShadowFlade/hotel)
   
-My current React project: https://github.com/ShadowFlade/gymApp-frontend
   
   
