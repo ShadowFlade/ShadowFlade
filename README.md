@@ -12,7 +12,7 @@ You can see my projects at :
   
   https://shadowflade.github.io/google-books/ (https://github.com/ShadowFlade/google-books)
   
-  https://shadowflade.github.io/pinterest-like-site-client-/ (https://github.com/ShadowFlade/pinterest-like-site-client-)
+  https://pinterest-front1337.herokuapp.com/ (https://github.com/ShadowFlade/pinterest-like-site-client-, https://github.com/ShadowFlade/pinterest-like-site-backend)
   
   
   
