@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadowFlade
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Typescript.
 - 💞️ I’m looking to collaborate on any frontend project.
 - 📫 How to reach me <drugov.business@yandex.ru>
 
@@ -11,8 +11,3 @@ You can see my projects at :
   https://shadowflade.github.io/hotel/ (https://github.com/ShadowFlade/hotel)
   
   https://shadowflade.github.io/google-books/ (https://github.com/ShadowFlade/google-books)
-  
-  https://pinterest-front1337.herokuapp.com/ (https://github.com/ShadowFlade/pinterest-like-site-client-, https://github.com/ShadowFlade/pinterest-like-site-backend)
-  
-  
-  
