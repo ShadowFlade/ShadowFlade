@@ -12,4 +12,5 @@ You can see my projects at :
   
   https://shadowflade.github.io/google-books/ (https://github.com/ShadowFlade/google-books)
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowFlade&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowFlade)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowFlade&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
